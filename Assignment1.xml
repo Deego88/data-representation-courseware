@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <technical>
+        <book1>
+            <ISN>1-2340-9182-7263</ISN>
+            <title>How to Use XML<title>
+            <author>Richard Deegan</author>
+        </book1>
+        <book2>
+            <ISN>1-2340-9182-7264</ISN>
+            <title>How to Use XML with Style<title>
+            <author>Ricky Egan</author>       
+        </book2>
+    </technical>
+    <cookery>
+        <book1>
+            <ISN>1-2340-9182-7265</ISN>
+            <title>How to Cook<title>
+            <author>Dicky Regan</author>
+        </book1>
+        <book2>
+            <ISN>1-2340-9182-7266</ISN>
+            <title>How to Cook with Style<title>
+            <author>Richie Deegan</author>
+        </book2>
+    </cookery>
+</library>
